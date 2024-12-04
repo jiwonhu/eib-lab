@@ -1,6 +1,6 @@
 elemental:
     registration:
-        url: https://35.213.152.196.sslip.io/elemental/registration/mkltqmf9rd2lrqfc6h9r79cncncc2v28xgk7584wlr6t29ss8hw5z5
+        url: https://[redacted].sslip.io/elemental/registration/mkltqmf9rd2lrqfc6h9r79cncncc2v28xgk7584wlr6t29ss8hw5z5
         ca-cert: |-
             -----BEGIN CERTIFICATE-----
             MIIBvDCCAWOgAwIBAgIBADAKBggqhkjOPQQDAjBGMRwwGgYDVQQKExNkeW5hbWlj
