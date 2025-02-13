@@ -1,12 +1,11 @@
-# Edge Image Builder Lab
+# Edge Image Builder Examples
 Note: Create a `base-images` directory and place the base image inside, before running the EIB.
 
-### 1. Rancher cluster with 2 nodes
-A 2-node management cluster that runs Rancher. Make sure to feed the Mac address from `network` folder yamls when spinning up VMs in UTM.
+### blog-rancher-3node
+A 3-node k3s cluster that runs Rancher Prime. Suitable for a management cluster.
 
-### 2. Elemental
-A simple image that registers to an Elemental.
-
+### elemental
+A simple downstream node that registers to an Elemental in management cluster.
 
 
 EIB Official Repo: https://github.com/suse-edge/edge-image-builder
